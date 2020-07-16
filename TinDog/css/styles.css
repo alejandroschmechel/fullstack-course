@@ -144,4 +144,16 @@ p {
     position: static;
     transform: rotate(0);
   }
+
+  .social-icon {
+    font-size: 4rem;
+  }
+
+  p {
+    font-size: 2rem;
+  }
+
+  .feature-title, .plan-title, .cta-title {
+    font-size: 3rem;
+  }
 }

@@ -1,0 +1,32 @@
+body {
+  background-color: #2f2519;
+  color: #f6ab6c;
+}
+
+a {
+  color: #fa7d09;
+}
+
+a:active, a:hover {
+  color: #ff4301;
+}
+
+hr {
+  border-color: #ff4301;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+}
+
+h1 {
+  color: #ff4301;
+}
+
+h3 {
+  color: #fa7d09;
+}
+
+.mypic {
+  border-radius: 100%;
+}
